@@ -3,7 +3,8 @@ package hw01_task01;
 import java.util.Scanner;
 
 /**
- *
+ * Factorial calculation
+ * 
  * @author ramntry
  */
 public class FactorialMain {
